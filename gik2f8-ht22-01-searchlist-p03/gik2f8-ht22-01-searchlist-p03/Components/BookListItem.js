@@ -4,4 +4,4 @@ const BookListItem = (book) => {
               ${book.author} - ${book.title}    
               </li>`;
   return html;
-};
+}; 
